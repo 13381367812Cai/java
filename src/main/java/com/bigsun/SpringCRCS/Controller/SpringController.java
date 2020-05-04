@@ -1,6 +1,7 @@
-package java.com.bigsun.SpringCRCS.Controller;
+package com.bigsun.SpringCRCS.Controller;
 
-import SpringCRCS.Service.SpringService;
+
+import com.bigsun.SpringCRCS.Service.SpringService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 

@@ -1,4 +1,4 @@
-package java.com.bigsun.SpringCRCS.Repository;
+package com.bigsun.SpringCRCS.Repository;
 
 public interface SpringRepository {
     void save();

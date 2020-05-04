@@ -1,5 +1,4 @@
-package java.com.bigsun.SpringCRCS.Component;
-
+package com.bigsun.SpringCRCS.Component;
 
 import org.springframework.stereotype.Component;
 
